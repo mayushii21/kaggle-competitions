@@ -1,0 +1,17 @@
+{
+  "id": "mayushii21/titanic-notebook",
+  "id_no": 40126293,
+  "title": "titanic_notebook",
+  "code_file": "titanic-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "competitions/titanic"
+  ]
+}
